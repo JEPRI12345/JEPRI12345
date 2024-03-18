@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 <h3 align="center">from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/coding-girl-animation-fe7t4gejurmtof8v.html">
 
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm jepri simamora</h1>
 <h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
 <p align="left">
