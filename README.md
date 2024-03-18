@@ -8,27 +8,28 @@ Here are some ideas to get you started:
 <h1 align="left" id="JEPRI 12345-title">:wave: Hello there! I'm JEPRI 12345</h1>
 <h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
 
+
 <p align="left">
-  <a href="https://github.com/JEPRI 12345/jepri 12345">
-    <img src="https://komarev.com/ghpvc/?username=JEPRI 12345" alt="page views" />
+  <a href="https://github.com/JEPRI12345/JEPRI12345">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  <a href="https://github.com/JEPRI12345/JEPRI12345">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
   </a>
-  <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
-  </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a>
-  <a href="https://github.com/jepri 12345?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/jepri 12345?style=flat&logo=github">
+ 
+@@ -21,16 +21,16 @@ Here are some ideas to get you started:
+
+  <a href="https://github.com/JEPRI12345?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
+  <a href="https://github.com/JEPRI12345?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
   </a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
 </p>
 
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 <a href="#JEPRI 12345-title">
   <img src="https://raw.githubusercontent.com/JEPRI 12345/github-stats-transparent/output/generated/overview.svg" alt="JEPRI 12345" align="right" />
 </a>
