@@ -131,6 +131,4 @@ Here are some ideas to get you started:
 
 [84.51°]: https://github.com/8451 "84.51° Github Home"
 [issues page]: https://github.com/JEPRI 12345/jepri 12345/issues "JEPRI 12345/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/JEPRI 12345/homelab "JEPRI 12345/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+
